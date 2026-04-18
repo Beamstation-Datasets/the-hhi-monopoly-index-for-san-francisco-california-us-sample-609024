@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a392a33c-9382-4d05-bd31-7819d4fcf77e",
+  "export_job_id": "b1a9c704-9052-45d2-93cc-f8c4656c9942",
   "id_short": 609024,
-  "published_at": "2026-04-13T20:01:13Z",
+  "published_at": "2026-04-18T19:30:42Z",
   "repo_name": "the-hhi-monopoly-index-for-san-francisco-california-us-sample-609024",
   "sample_asset_name": "beamstation_609024_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/609024/beamstation_609024_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "7289d7088f7931458eae22fa52293cec9949f91fab71808ea9ae9cda449a151f",
-  "sample_size_bytes": 20450,
+  "sample_sha256": "2bd7639809c5e368a3cfee5cddbb4b0f4a7df8c88e931de342fd81ce20a86e43",
+  "sample_size_bytes": 20638,
   "total_records": 4
 }
