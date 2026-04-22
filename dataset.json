@@ -6,7 +6,7 @@
   "config_category": "acquisition",
   "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
   "config_name": "The HHI Monopoly Index for San Francisco, California, US",
-  "export_job_id": "b1a9c704-9052-45d2-93cc-f8c4656c9942",
+  "export_job_id": "23edb3d7-de08-466c-97e7-0acdbb2dda77",
   "github_org": "Beamstation-Datasets",
   "id_short": 609024,
   "location_name": "San Francisco",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/609024/beamstation_609024_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_pct": 25.0,
   "sample_records": 1,
-  "sample_sha256": "2bd7639809c5e368a3cfee5cddbb4b0f4a7df8c88e931de342fd81ce20a86e43",
-  "sample_size_bytes": 20638,
+  "sample_sha256": "fe1cbb1153e1d99e3422ae860c060c68c83d8ab2e3ffdf2530203948b5dc6bfa",
+  "sample_size_bytes": 20639,
   "total_records": 4,
-  "updated_at": "2026-04-14T22:15:11.652028+00:00"
+  "updated_at": "2026-04-22T01:06:56.045457+00:00"
 }
